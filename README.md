@@ -14,7 +14,7 @@ It simplifies gameplay by adding automated tools and teleportation capabilities.
 - **🔫 Gun Modifications:** Enhanced gun mechanics and performance tweaks.
 
 ## 💻 Compatibility
-- ✅ Currently supports **Ohio** only.
+- ✅ Currently supports **Ohio.** only.
 
 ## 📖 How to Use
 1. 📥 Inject the script using a trusted executor.
