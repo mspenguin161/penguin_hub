@@ -1,7 +1,9 @@
 # Penguin Hub
 
 ## Overview
-This Roblox script provides powerful automation features for the game **Ohio.**. It simplifies gameplay by adding automated tools and teleportation capabilities.
+This Roblox script provides powerful automation features for the game **Ohio.** 
+
+It simplifies gameplay by adding automated tools and teleportation capabilities.
 
 ## 📦 Current Features
 - **🛠️ AutoFarm:** Automatically farm resources and in-game currency.
