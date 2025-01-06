@@ -17,6 +17,9 @@ It simplifies gameplay by adding automated tools and teleportation capabilities.
 - ✅ Currently supports **Ohio.** only. (Shadowban bypass is mostly functional)
 
 ## 📖 How to Use
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mspenguin161/penguin_hub/refs/heads/main/Loader.lua"))()
+```
 1. 📥 Inject the script using a trusted executor.
 2. 🖱️ Enable desired features via the in-script GUI.
 3. 🔔 Stay tuned for updates on upcoming features!
