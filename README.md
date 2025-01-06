@@ -1,4 +1,4 @@
-# Roblox Script README
+# Penguin Hub
 
 ## Overview
 This Roblox script provides powerful automation features for the game **Ohio.**. It simplifies gameplay by adding automated tools and teleportation capabilities.
