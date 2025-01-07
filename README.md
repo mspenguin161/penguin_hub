@@ -8,6 +8,7 @@ It simplifies gameplay by adding automated tools and teleportation capabilities.
 ## 📦 Current Features
 - **🛠️ AutoFarm:** Automatically farm resources and in-game currency.
 - **📍 Teleport:** Instantly teleport to various key locations in the game.
+- **🛡️ Damage Escape:** Automatically teleport away when taking damage.
 
 ## 🚧 Upcoming Features
 - **⚔️ Kill Aura:** Automatically attack nearby enemies.
