@@ -30,6 +30,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/mspenguin161/penguin_
 ```
 ### Virus Border Roleplay — Candy Autofarm
 ```lua
+_G.DISCORD_WEBHOOK_URL = "REPLACE WITH YOUR WEBHOOK"
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/mspenguin161/penguin_hub/refs/heads/main/virus_border_roleplay.lua"))()
 ```
 1. 📥 Inject the script using a trusted executor.
