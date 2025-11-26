@@ -79,6 +79,8 @@ local function sendToDiscord(message)
     end)
 end
 
+sendToDiscord('Autofarm successfully started.')
+
 ---------------------------------------------------------------------
 -- Candy Spin Handler
 ---------------------------------------------------------------------
